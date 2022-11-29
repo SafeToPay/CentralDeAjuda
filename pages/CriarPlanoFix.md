@@ -87,6 +87,6 @@ Estando tudo certo com a criação, é só clicar em <b>Concluir</b> e o plano e
 <img src="../imagens/PlanoFix06.png" style="display:block; margin-left:auto; margin-right:auto"><br>
 
 
-# [Agora você pode criar uma assinatura para vincular ao seu Plano](CentralDeAjuda/pages/NovaAssinatura)
+# [Agora você pode criar uma assinatura para vincular ao seu Plano](pages/NovaAssinatura)
 
 <my-footer></my-footer>
