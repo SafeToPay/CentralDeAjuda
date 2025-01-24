@@ -1,7 +1,7 @@
 # Como funciona?
 <hr>
 
-Para negócios que operam no modelo de marketplace, a Safe2pay exige que este perfil de cliente seja uma <b>Pessoa Jurídica</b>, está opção de perfil possui uma <b>mensalidade de R$ 300</b>.
+Para negócios que operam no modelo de marketplace, a Safe2pay exige que este perfil de cliente seja uma <b>Pessoa Jurídica</b>, está opção de perfil possui uma <b>mensalidade de R$ 399</b>.
 
 A Safe2pay considera o Marketplace como uma conta <b>"Mãe"</b> aonde poderá vincular a esta conta diversas <b>Subcontas</b> de sua <b>inteira</b> responsabilidade.
 
